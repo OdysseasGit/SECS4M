@@ -1,6 +1,6 @@
 # SECS4M
-# PENDING PUBLICATION 
-# AUTHOR: ODYSSEAS VLACHOPOULOS
+PENDING PUBLICATION 
+AUTHOR: ODYSSEAS VLACHOPOULOS
 This is an AI-based surrogate model for the EC-JRC crop growth model ECroPS for grain maize. It utilizes 3 weather variables (min and max temperature and precipitation) in order to predict the Total Weight of Storage Organs (yield).
 The nested RNN has been trained with native resolution of ERA5, and works under the assumption of maximum resolution that of ERA5 (~25km).
 The functioning of the RNN as described within is important to understand the shape of the required input and the output, as well as the generation of the input feature space.
